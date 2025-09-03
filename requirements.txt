@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+cloudinary==1.41.0
+python-dotenv==1.0.1
+urllib3==2.2.2
+certifi==2024.8.30
+idna==3.8
